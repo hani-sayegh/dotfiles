@@ -1,0 +1,7 @@
+#TAB: menu-complete
+
+set show-all-if-ambiguous on
+set completion-ignore-case on
+set colored-stats on
+#set expand-tilde on
+#"~": dump-functions
